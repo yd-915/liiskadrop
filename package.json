@@ -94,9 +94,7 @@
       "yarn run lint:js"
     ]
   },
-  "engines": {
-    "node": "^14.0.0"
-  },
+
   "ember": {
     "edition": "octane"
   },
