@@ -13,6 +13,10 @@
     "type": "git",
     "url": "https://github.com/szimek/sharedrop.git"
   },
+    },
+  "engines": {
+    "node": "^14.0.0"
+  },
   "scripts": {
     "build": "ember build --environment=production",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
