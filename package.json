@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/szimek/sharedrop.git"
   },
-    },
+  
   "engines": {
     "node": "^14.0.0"
   },
